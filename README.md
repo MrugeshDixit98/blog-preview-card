@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [[Add live site URL here](https://your-live-site-url.com)](https://mrugeshdixit98.github.io/blog-preview-card/)
+- Live Site URL: https://mrugeshdixit98.github.io/blog-preview-card/
 
 ## My process
 
