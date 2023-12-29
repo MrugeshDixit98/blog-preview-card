@@ -23,7 +23,7 @@ body {
   background-color: var(--yellow);
 }
 .blog__card {
-  max-width: 350px;
+  max-width: 25rem;
   background-color: var(--white);
   padding: 1rem;
   border: 1px solid;
@@ -43,10 +43,18 @@ body {
   flex-direction: column;
   gap: 1rem;
 }
-.blog__card .blog__text h2:hover {
+.blog__card .blog__text .blog__published-date {
+  font-weight: 600;
+  font-size: 16px;
+}
+.blog__card .blog__text h1 {
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+.blog__card .blog__text h1:hover {
   cursor: pointer;
 }
-.blog__card .blog__text h2:active {
+.blog__card .blog__text h1:active {
   cursor: pointer;
   color: var(--yellow);
 }
